@@ -147,4 +147,4 @@ RL 플레이어를 개선할 다른 방법을 생각해볼 수 있는가? 이 �
 | 1.2 Symmetries | 사전 지식 활용 | 상대 비대칭일 때도 안전한가? |
 | 1.3 Greedy | 탐험-활용 | ε-greedy가 정말 우수한가? |
 | 1.4 Exploration Learning | on/off-policy | 두 가치의 의미적 차이는? |
-| 1.5 Improvements | Q-learning 등 | 더 나은 방법으로 검증되는가? |
+| 1.5 Improvements | Q-learning 등 | 더 나은 방법으로 검증되는가? |ㅎ
