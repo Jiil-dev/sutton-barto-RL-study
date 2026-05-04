@@ -16,10 +16,12 @@ Sutton & Barto의 *Reinforcement Learning: An Introduction* (2nd Ed.)을 공부�
 ## Chapter 1 자료
 
 ### 노트 (이론)
+- 📑 **[종합 실험 보고서 (REPORT.md)](notes/ch01/REPORT.md)** — 각 Exercise별 [목표→접근→코드→설계 이유→결과→통찰] 풀 보고서
 - [본문 정리: 1.5절 An Extended Example](notes/ch01/1.5_tic_tac_toe.md)
 - [Exercise 답변과 검증 가설](notes/ch01/exercises.md)
 - [구현 설계 노트](notes/ch01/implementation_notes.md)
 - [구현 진행 로그](notes/ch01/progress_log.md)
+- [코드 사용 매뉴얼 (MANUAL.md)](code/ch01/MANUAL.md)
 
 ### 코드
 모듈:
